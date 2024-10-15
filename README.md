@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  🎓 I'm a student at the **University of Ljubljana** studying **ICT Technologies**.
+  🎓 I'm a student at the University of Ljubljana studying ICT Technologies.
 </p>
 
 <p align="center">
-  📜 I have earned **CCNA1-3 certificates** and have hands-on experience with various technologies!
+  📜 I have earned CCNA1-3 certificates and have hands-on experience with various technologies!
 </p>
 
 ---
