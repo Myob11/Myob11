@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fcb8NTqTBj7kCONnmF5wgQ.gif" alt="SQL" width="100" height="100"/>
   <img src="https://old.roi4cio.com/fileadmin/user_upload/vmware-esxi.png" alt="Virtualization" width="200" height="100"/>
-  <img src="https://coursetreasure.com/wp-content/uploads/2024/06/1_ynDpVoF1AgngaSCPvDRVEw.gif" alt="Web Server Hosting" width="200" height="200"/>
+  <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/26c78277-ae72-442e-ad4f-f6fb06265887/c54b4d4c-a6b6-4ff3-8a82-0b01fd94bb4b.png" alt="Web Server Hosting" width="100" height="100"/>
 </p>
 
 - **SQL**: Database management and querying
