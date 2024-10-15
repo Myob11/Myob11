@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Martin 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-Ljubljana-blue?style=flat-square" alt="University of Ljubljana">
