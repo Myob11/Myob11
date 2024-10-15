@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ### 🛠️ Technologies & Skills
 
 <p align="left">
-  <img src="https://medium.com/@tw4512/embarking-on-mysql-learning-a-beginners-roadmap-df7415595445" alt="SQL" width="50" height="50"/>
-  <img src="https://roi4cio.com/catalog/product/vmware-esxi" alt="Virtualization" width="50" height="50"/>
-  <img src="https://coursetreasure.com/product/apache/" alt="Web Server Hosting" width="50" height="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fcb8NTqTBj7kCONnmF5wgQ.gif" alt="SQL" width="50" height="50"/>
+  <img src="https://old.roi4cio.com/fileadmin/user_upload/vmware-esxi.png" alt="Virtualization" width="50" height="50"/>
+  <img src="https://coursetreasure.com/wp-content/uploads/2024/06/1_ynDpVoF1AgngaSCPvDRVEw.gif" alt="Web Server Hosting" width="50" height="50"/>
 </p>
 
 - **SQL**: Database management and querying
